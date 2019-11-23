@@ -1,4 +1,5 @@
 #Tugas-Praktikum
+#Tugas-Praktikum
 [Latihan List](url)
 
 - Membuat sebuah list dengan 5 elemen.
@@ -6,28 +7,32 @@
 
       1. Tampilkan elemen ke-3
       2. Tampilkan elemen ke-2 sampai elemen ke-4
-      3. Tampilkan elem terakhir.
-
-- [ ] List 5 elemen dan programnya
-![Screenshot (55)](https://user-images.githubusercontent.com/56834389/69450084-ecf1ad00-0d8e-11ea-9378-da0524d2e581.png)
-
-   - **Hasilnya dari program**
-
-![Screenshot (57)](https://user-images.githubusercontent.com/56834389/69450132-0bf03f00-0d8f-11ea-90e8-6cff660bf092.png)
-
-- Mengubah elemen list tersebut
-- List akses
-      1. Ubah elemen ke-4 dengan nilai lain
-      2. Ubah elemen ke-4 sampai elemen terakhir
-      ( Masih dengan List yang sama )
-
+      3. Tampilkan elemen terakhir.
       
+- Ubah elemen list.
 
-- [ ]  Programnya
+      1. Ubah lemen ke-4 dengan nilai lainnya
+      2. Ubah elemen ke-4 sampai dengan elemen terakhir.
+      
+- Tambah elemen list.
 
-![Screenshot (58)](https://user-images.githubusercontent.com/56834389/69450626-2d055f80-0d90-11ea-846a-5d695d8915c8.png)
+      1. Ambil 2 bagian dari list pertama yaitu A jadikan ke list kedua yaitu B
+      2. Tambah list B dengan nilai string
+      3. Tambah list B dengan nilai string
+      4. Gabungkan list B dengan list A
 
-      - Hasilnnya
 
-![Screenshot (59)](https://user-images.githubusercontent.com/56834389/69450651-38588b00-0d90-11ea-82b8-a2c92ad2ac37.png)
+> Contoh Programnya
+
+
+![Screenshot (58)](https://user-images.githubusercontent.com/56834389/69471520-90b07c80-0dd2-11ea-823b-32f7fa0275b3.png)
+
+
+> Hasil dari program
+
+
+![Screenshot (59)](https://user-images.githubusercontent.com/56834389/69471646-13860700-0dd4-11ea-8d82-84224eb7b34e.png)
+
+
+[PRAKTIKUM](url)
 
