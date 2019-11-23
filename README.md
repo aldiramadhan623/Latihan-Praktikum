@@ -62,5 +62,7 @@
 ### FLOWCHART
 
 
-![Praktikum](https://user-images.githubusercontent.com/56834389/69476079-c15ed900-0e07-11ea-80be-8ab9a39c8ce9.jpg)
+![Flowchartpraktikum4](https://user-images.githubusercontent.com/56834389/69478060-7ac9a880-0e20-11ea-881d-c2b4d3800620.jpg)
+
+
 
